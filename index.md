@@ -11,6 +11,7 @@ category: homepage
 - reader who likes biography books <br />
 - Italian who likes to eat well
 
+
 <!-- I am currently available for hire. [Here](/kalfas-resume.pdf)'s my current resume.
 
 ### Links
