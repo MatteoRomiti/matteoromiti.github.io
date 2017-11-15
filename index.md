@@ -4,7 +4,7 @@ title: Matteo Romiti
 category: homepage
 ---
 
-- Engineering student who likes to learn and create stuff (mainly coding) <br /> 
+- Engineering student who likes to learn and create (mainly coding) <br /> 
 - CouchSurfer who likes to help and know people from everywhere <br /> 
 - (former) violin student who likes classical and electronic music <br />
 - (former) volleyball player who likes skateboards and snowboards <br />
