@@ -4,8 +4,8 @@ title: Matteo Romiti's blog
 category: blog
 ---
 
-What I think,
-What I learn,
+What I think, <br />
+What I learn, <br />
 What I do.
 
 <hr>

@@ -4,13 +4,12 @@ title: Matteo Romiti
 category: homepage
 ---
 
-I'm Matteo Romiti, 
-an Engineering student who likes to learn and create stuff (mainly coding), 
-a CouchSurfer who likes to help and know people from everywhere, 
-a (former) violin student who likes classical and electronic music,
-a (former) volleyball player who likes skateboards and snowboards,
-a reader who likes biography books,
-an Italian who likes to eat well.
+Engineering student who likes to learn and create stuff (mainly coding), <br /> 
+CouchSurfer who likes to help and know people from everywhere, <br /> 
+(former) violin student who likes classical and electronic music, <br />
+(former) volleyball player who likes skateboards and snowboards, <br />
+reader who likes biography books, <br />
+Italian who likes to eat well.
 
 <!-- I am currently available for hire. [Here](/kalfas-resume.pdf)'s my current resume.
 
@@ -30,18 +29,18 @@ Please encrypt your email if you can.
 
 ### Projects
 
-- [Cauldron][1], an IDE for Chemical Reaction Networks, currently not open
-    source, but I'll keep you guys updated.
+- [Cauldron][1], <br /> an IDE for Chemical Reaction Networks, <br /> currently not open
+    source, <br /> but I'll keep you guys updated.
 
-- [tmux-hackernews][2], a tmux plugin to get [Hacker News][3] headlines in the
+- [tmux-hackernews][2], <br /> a tmux plugin to get [Hacker News][3] headlines in the
  status bar.
 
-- [ceramic][4], a simple text editor based on antirez's [kilo][5].
+- [ceramic][4], <br /> a simple text editor based on antirez's [kilo][5].
 
-- [trees][7], a simple binary search tree library for Go, with legible printing
+- [trees][7], <br /> a simple binary search tree library for Go, <br /> with legible printing
     of the trees. Other data structure/algorithm libraries to come.
 
-- [hanoi][8], a terminal GUI library for Go.
+- [hanoi][8], <br /> a terminal GUI library for Go.
 
 ### Publications
 
