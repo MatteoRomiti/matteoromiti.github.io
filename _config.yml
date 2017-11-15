@@ -1,3 +1,6 @@
-theme: jekyll-theme-merlot
-title: Come back later...
-description: Feel free to bookmark this to keep an eye on my updates
+title: Theo Kalfas
+description: Hey, I'm Theo Kalfas (teolandon), software developer. This is my website. Come in!
+email: kalfas@teolandon.com
+github_username: teolandon
+markdown: kramdown
+permalink: /blog/:title/
