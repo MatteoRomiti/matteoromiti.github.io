@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Theo Kalfas (teolandon)
+title: Matteo Romiti 
 category: homepage
 ---
 
-I'm Theo Kalfas (aka teolandon), and I'm an aspiring software developer,
-currently studying in Grinnell College, IA, for my Bachelor's Degree in CS. I
-enjoy getting involved in various projects and helping out with development.
+I'm Matteo Romiti, 
+an Engineering student who likes to learn and create stuff (mainly coding), 
+a CouchSurfer who likes to help and know people from everywhere, 
+a (former) violin student who likes classical and electronic music,
+a (former) volleyball player who likes skateboards and snowboards,
+a reader who likes biography books,
+an Italian who likes to eat well.
 
-Feel free to contact me or browse through my GitHub. I'd be happy to talk!
-
-I am currently available for hire. [Here](/kalfas-resume.pdf)'s my current resume.
-
-------------------------------------------
+<!-- I am currently available for hire. [Here](/kalfas-resume.pdf)'s my current resume.
 
 ### Links
 
@@ -55,3 +55,4 @@ Coming soon...
 [6]: /public-key.txt
 [7]: https://github.com/teolandon/trees
 [8]: https://github.com/teolandon/hanoi
+ -->

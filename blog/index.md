@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: teolandon's blog
+title: Matteo Romiti's blog
 category: blog
 ---
 
-Mostly ramblings, things that I notice, things that annoy me and
-not-so-well-thought-out conspiracy theories about obsolete programs from the
-early 2000s.
+What I think,
+What I learn,
+What I do.
 
 <hr>
 
