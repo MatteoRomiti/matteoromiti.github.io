@@ -8,5 +8,8 @@ category: projects
 - [GitHub works:](https://github.com/MatteoRomiti)
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+  * [{{ repository.name }}]({{ repository.html_url }}) <br />
+    {{ repository.description }} <br />
+    {{ repository.language }}
+<!--     {{ repository.created_at }} -->
 {% endfor %}
