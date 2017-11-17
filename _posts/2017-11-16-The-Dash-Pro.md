@@ -4,6 +4,7 @@ title: "The Dash Pro"
 date: 2017-11-16 10:31:24 +0200
 excerpt_separator: <!--more-->
 ---
+<!-- <p>{{ page.date | date: "%B %e, %Y" }}</p> -->
 If there is one thing I remember from my first Telecommunications course in 2013 is that an engineer must be able to deal with **trade-offs**. <!--more-->In that case, we were often talking about the trade-off between wired and wireless communications and all their properties in terms of noise, interference, mobility, range and so on. At the end of that course, my idea was: avoid wireless, if you can. That's why I've always been listening to music with wired products.
 
 Recently though, I became a **commuter** (walk, train, walk, repeat) and some of my priorities and habits changed. That's why I decided to buy something new.
