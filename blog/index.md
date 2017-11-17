@@ -18,6 +18,7 @@ category: blog
         <div class="blog-title">{{ post.title }}</div>
         <div class="post-excerpt">
         <p>
+          <small><strong>{{ post.date | date: "%B %e, %Y" }} <br /></strong></small>
           {{ post.excerpt | strip_html }}...
           </p>
         </div>

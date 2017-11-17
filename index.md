@@ -3,7 +3,7 @@ layout: default
 title: Matteo Romiti 
 category: homepage
 ---
-<center><img src="./images/me_sunset.jpg" alt="Me" style="width: 250px; border-radius: 50%"/></center>
+<center><img src="./images/me_sunrise.jpg" alt="Me" style="width: 250px; border-radius: 50%"/></center>
 <!-- ![Me (sort of)](./images/me_sunset.jpg =250x250) -->
 
 <br /> 
