@@ -14,6 +14,6 @@ category: bio
 | 09/2012 | - Stopped volleyball and started studying violin |
 | 09/2012 | - Enrolled in Electronics Engineering at Polytechnic University of Marche, Italy |
 | 06/2011 | - Played at the FIVB Beach Volleyball Youth World Championships as the Italian second team |
-| 06/2011 | - Won the "Best Setter" Award at the Italian Volleyball Championship |
+| 06/2011 | - Won the "Best Setter" Award, Italian Volleyball Championship |
 | 09/1998 | - Started playing volleyball |
 | 02/1993 | - Born |

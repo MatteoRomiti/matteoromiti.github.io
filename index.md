@@ -3,7 +3,10 @@ layout: default
 title: Matteo Romiti 
 category: homepage
 ---
+<center><img src="./images/me_sunset.jpg" alt="Me" style="width: 250px; border-radius: 50%"/></center>
+<!-- ![Me (sort of)](./images/me_sunset.jpg =250x250) -->
 
+<br /> 
 - Engineering student who likes to learn and create (mainly coding) <br /> 
 - CouchSurfer who likes to help and know people from everywhere <br /> 
 - (former) violin student who likes classical and electronic music <br />
