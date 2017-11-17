@@ -42,10 +42,9 @@ It's been almost a week I've been using it and I want to share all the good and 
 
 ## Neutral
 
-1. The battery is quite good (~2 hours), but then they need to be recharged and you **have to wait**.
+1. The battery is quite good (~2 hours), but then they need to be recharged and you **have to wait**. Definitely bad for a long journey.
 2. They're relatively light and small, but in the long run you feel them and you may want to take them off for a bit.
-3. The pairing and connection procedure is simple but it requires some seconds. I think it **can be improved**.
-4. The Transparency Mode allows you to hear the world around, whether you are listening to your music or you stopped it. The sound you get from the outside though is not natural, you can tell the difference and it's probably better to remove the right earbud instead—faster and easier. You definitely don't want to use this feature to improve the quality of a classical music concert. (Yes, I tried it.) 
+3. The Transparency Mode allows you to hear the world around, whether you are listening to your music or you stopped it. The sound you get from the outside though is not natural, you can tell the difference and it's probably better to remove the right earbud instead—faster and easier. You definitely don't want to use this feature to improve the quality of a classical music concert. (Yes, I tried it.) 
 
 ## Still To Test
 
@@ -54,4 +53,6 @@ It's been almost a week I've been using it and I want to share all the good and 
 
 ## My Personal Opinion
 
-As Apple is showing with the AirPods, I think this kind of technology and products will replace a lot of headphones. Despite the problems I had so far, I'm quite satisfied as I think they can be solved, either by me or by Bragi. 
+As Apple is showing with the AirPods, I think this kind of technology and products will replace a lot of headphones. Despite the problems I had so far, I'm quite satisfied as I think they can be solved, either by me or by Bragi. <br />
+
+In the end, I think the trade-off here is between money and quality.

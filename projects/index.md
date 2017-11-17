@@ -4,5 +4,9 @@ title: Matteo Romiti's Projects
 category: projects
 ---
 
-- [Reading List](https://matteoromiti.github.io/reading-list)
-- [GitHub works](https://github.com/MatteoRomiti)
+- [Personal Reading List](https://matteoromiti.github.io/reading-list)
+- [GitHub works:](https://github.com/MatteoRomiti)
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
