@@ -4,12 +4,37 @@ title: Matteo Romiti's Projects
 category: projects
 ---
 
-- [Personal Reading List](https://matteoromiti.github.io/reading-list)
-- [GitHub works:](https://github.com/MatteoRomiti)
+# Side Projects
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }}) <br />
-    {{ repository.description }} <br />
-    {{ repository.language }}
+  {% if repository.description contains '(Side' %}
+* [{{ repository.name }}]({{ repository.html_url }}) <br />
+  {{ repository.description }} <br />
+  {{ repository.language }}
+  {% endif%}
 <!--     {{ repository.created_at }} -->
 {% endfor %}
+
+# Projects at Eurecom
+
+{% for repository in site.github.public_repositories %}
+  {% if repository.description contains 'Eurecom' %}
+* [{{ repository.name }}]({{ repository.html_url }}) <br />
+  {{ repository.description }} <br />
+  {{ repository.language }}
+  {% endif%}
+<!--     {{ repository.created_at }} -->
+{% endfor %}
+
+# Projects at Polytechnic of Turin
+
+{% for repository in site.github.public_repositories %}
+  {% if repository.description contains 'Turin' %}
+* [{{ repository.name }}]({{ repository.html_url }}) <br />
+  {{ repository.description }} <br />
+  {{ repository.language }}
+  {% endif%}
+<!--     {{ repository.created_at }} -->
+{% endfor %}
+
+
