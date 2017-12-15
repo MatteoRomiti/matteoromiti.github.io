@@ -1,1 +1,1 @@
-Repository for [my personal website](matteoromiti.github.io).
+Repository for my personal website.

@@ -32,7 +32,7 @@ It's been almost a week I've been using it and I want to share all the good and 
 
 ## Bad
 
-1. If you have a Nexus 6P, you **don't** want to buy the Dash Pro as the Bluetooth connection drops every few seconds whether you move your body or you put your phone in a pocket—trousers, jacket, left-side, right-side doesn't matter. I know this happened to some other users as I read complaints on the Bragi's Facebook page, but unfortunately I don't know their phone model. (My negative feedback on the Bragi's Facebook page was deleted after few days and no more available.)
+1. If you have a Nexus 6P, you **don't** want to buy the Dash Pro as the Bluetooth connection drops every few seconds whether you move your body or you put your phone in a pocket—trousers, jacket, left-side, right-side doesn't matter. I know this happened to some other users as I read complaints on the Bragi's Facebook page, but unfortunately I don't know their phone model. (My negative feedback on the Bragi's Facebook page was deleted after few days.)
 2. The touch controls are **not easy**. When you want to turn on the Transparency Mode you may end up starting a running session. When you want to lock the touch controls you may have to try multiple times to get the gesture right.
 3. The small piece of rubber going inside your ear canal is very **dangerous**. After I lost it in my ear three times, I understood it was better to use the FitSleeves.
 4. The left earbud had problems twice. The first time, it had **no sound** while the right earbud was normally playing. The second time, I heard a [strange noise](https://www.youtube.com/watch?v=dimdySz8F0c) and I had to take it off.
