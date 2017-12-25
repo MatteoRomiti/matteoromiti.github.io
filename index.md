@@ -11,7 +11,7 @@ category: homepage
 - [CouchSurfer](https://www.couchsurfing.com/people/matteoromiti) who likes to help and know people from everywhere <br /> 
 - (former) violin student who likes classical and electronic music <br />
 - (former) [volleyball player](https://youtu.be/ljKnFh7Vxms) who likes skateboards and snowboards <br />
-- [reader]((https://matteoromiti.github.io/reading-list/)) who likes biography books<br />
+- [reader](https://matteoromiti.github.io/reading-list/) who likes biography books<br />
 - Italian who likes to eat well
 
 <br /> 
