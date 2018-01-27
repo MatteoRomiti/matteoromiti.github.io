@@ -4,7 +4,9 @@ title: Matteo Romiti's Bio
 category: bio
 ---
 
-| 07/2017 | - Moved to Nice, France for an internship at Monaco Telecom, Principality of Monaco |
+| 01/2018 | - Started studying piano |
+| 01/2018 | - Moved to Vienna for my master's thesis at AIT (Austrian Institute of Technology) |
+| 07/2017 | - Moved to Nice for an internship at Monaco Telecom, Principality of Monaco |
 | 09/2016 | - Moved to Sophia Antipolis, France for a Double Degree Project in Data Science at Eurecom |
 | 09/2015 | - Enrolled in "ICT for smart societies" at Polytechnic University of Turin, Italy |
 | 07/2015 | - Got my Bachelor's Degree in Electronics Engineering |

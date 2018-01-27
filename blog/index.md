@@ -19,7 +19,7 @@ category: blog
         <div class="post-excerpt">
         <p>
           <small><strong>{{ post.date | date: "%B %e, %Y" }} ~
-          {% assign words = content | number_of_words %}
+          {% assign words = post.content | number_of_words %}
           {% if words < 360 %}
             1 min read
           {% else %}
@@ -28,7 +28,7 @@ category: blog
 
           </strong></small>
           {{ post.excerpt | strip_html }}...
-          </p>
+        </p>
         </div>
         </a>
       </li>
