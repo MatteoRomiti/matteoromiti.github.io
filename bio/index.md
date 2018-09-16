@@ -3,7 +3,8 @@ layout: bio
 title: Matteo Romiti's Bio
 category: bio
 ---
-
+| 08/2018 | - Research Engineer at AIT (Austrian Institute of Technology) |
+| 07/2018 | - Got my Master's Degree in Data Science (Eurecom and Polytechnic of Turin) |
 | 01/2018 | - Started studying piano |
 | 01/2018 | - Moved to Vienna for my master's thesis at AIT (Austrian Institute of Technology) |
 | 07/2017 | - Moved to Nice for an internship at Monaco Telecom, Principality of Monaco |
