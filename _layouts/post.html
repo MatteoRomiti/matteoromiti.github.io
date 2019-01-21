@@ -1,0 +1,17 @@
+---
+layout: blog
+---
+<div class="post">
+  <div class="post-title"><span>{{ page.title }}</span></div>
+  {{ page.date | date: "%B %e, %Y" }} ~
+	{% assign words = content | number_of_words %}
+	{% if words < 360 %}
+	  1 min read
+	{% else %}
+	  {{ words | divided_by:180 }} mins read
+	{% endif %} <br />
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
