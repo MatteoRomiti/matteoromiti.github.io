@@ -3,11 +3,12 @@ layout: bio
 title: Matteo Romiti's Bio
 category: bio
 ---
-| 03/2019 | - Restarted studying piano |
+| 12/2019 | - First piano recital (Altes Rathaus, Vienna) |
+| 10/2019 | - Presented my second scientific publication (AFT 2019, Zurich) |
+| 06/2019 | - Presented my first scientific publication (WEIS 2019, Boston) |
+| 03/2019 | - Started studying piano |
 | 08/2018 | - Research Engineer at AIT (Austrian Institute of Technology) |
 | 07/2018 | - Got my Master's Degree in Data Science (Eurecom and Polytechnic of Turin) |
-| 04/2018 | - Stopped studying piano |
-| 01/2018 | - Started studying piano |
 | 01/2018 | - Moved to Vienna for my master's thesis at AIT (Austrian Institute of Technology) |
 | 07/2017 | - Moved to Nice for an internship at Monaco Telecom, Principality of Monaco |
 | 09/2016 | - Moved to Sophia Antipolis, France for a Double Degree Project in Data Science at Eurecom |
