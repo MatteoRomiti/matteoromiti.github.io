@@ -14,9 +14,9 @@ category: homepage
 - Former [volleyball player](https://youtu.be/ljKnFh7Vxms) who likes [skateboards and snowboards](https://youtu.be/X3y-hf4Nu7k) <br />
 - Italian who likes to eat well
 
-<br /> 
+<!-- <br /> 
 <span class="newline">Encrypted Email: <a href="matteoromiti_PGP_public_key.asc">My PGP key</a></span>
 <br /> 
-
+ -->
 > "Many small people, in many small places, do many small things, that can alter the face of the world."
 
