@@ -77,6 +77,15 @@ $small-and-down: "only screen and (max-width : #{$small-screen})" !default;
   }
 }
 
+a {
+  color: #B8860B;
+  text-decoration: none; }
+  a:visited {
+    color: #FF8C00; }
+  a:hover {
+    color: #111;
+    text-decoration: underline; }
+
 nav {
     background-color: white;
 }
