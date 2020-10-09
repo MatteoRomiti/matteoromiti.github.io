@@ -33,6 +33,7 @@ layout: index
   <div class = "row">
     <div class = "col s12 m12 l12">
       <div class = "card-panel">
+        <h2>Beschreibung</h2>
         Das Ziel des KRYPTOMONITOR Projekts liegt deshalb in der Entwicklung generischer <b>Kryptoasset-Analysemethoden</b>, die neben nativen Kryptowährungs-Transaktionen auch die Analyse von <b>Smart Contracts</b> und <b>Off-Chain</b> Transaktionen unterstützen. 
         <br>
         <br>
