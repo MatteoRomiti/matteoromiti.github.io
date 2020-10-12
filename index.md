@@ -1,5 +1,6 @@
 ---
 layout: index
+navigation_weight: 1
 ---
 
 <div class="home">
@@ -10,7 +11,7 @@ layout: index
           <div class = "col s12 m3 l3 center">
             <div>
               <a href='/about'>
-                <img src="/img/locky.png" alt="" class="circle responsive-img hoverable">
+                <img src="/img/stella_logo_black_yellow_net.png" alt="" class="circle responsive-img hoverable">
               </a>
             </div>
             <div style = 'padding: 5px 0px'></div>

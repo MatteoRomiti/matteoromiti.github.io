@@ -24,6 +24,6 @@ kramdown:
 # redcarpet:
 #   extensions: ["fenced_code_blocks","no_intra_emphasis"]
 
-gems:
+plugins:
  - jekyll-gist
  - jekyll-paginate
