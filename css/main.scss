@@ -4,9 +4,16 @@
 @charset "utf-8";
 
 
+@import url("https://p.typekit.net/p.css?s=1&k=gdv6qkt&ht=tk&f=15528&a=9939373&app=typekit&e=css");
+
+@font-face {
+  font-family:"europa";
+  src:url("https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:400;
+}
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "europa", sans-serif;
 $base-font-size:   17px;
 $base-code-size:   14px;
 $base-font-weight: 400;
