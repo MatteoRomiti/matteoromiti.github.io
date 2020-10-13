@@ -21,9 +21,9 @@ navigation_weight: 1
               <h1>
                 KRYPTOMONITOR
               </h1>
-              <h2>
+              <h3>
                 Verfahren zur forensischen Analyse von Smart Contracts und Off-Chain Transaktionen.
-              </h2>
+              </h3>
             </p>
           </div>
         </div>
