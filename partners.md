@@ -17,7 +17,7 @@ navigation_weight: 3
 		<div class = "card-panel"  style="height:350px">
 			<img style="float: right;" src="/img/universitaet-innsbruck-logo-rgb-farbe.png" alt="UIBK" width="150"/>
 			<h2><a href="http://informationsecurity.uibk.ac.at/">University of Innsbruck</a></h2>
-			The research focus of the Security and Privacy Laboratory at the Institut für Informatik Innsbruck University are digital forensics, virtual currencies as well as cybercrime. The lab is strongly connected to international institutions and has a leading role in Europe in researching phenomena involved in KRYPTOMONITOR.
+			The research focus of the Security and Privacy Laboratory at the Institut für Informatik Innsbruck University are digital forensics, virtual currencies as well as cybercrime. The lab is strongly connected to international institutions and has a leading role in Europe in studying phenomena involved in KRYPTOMONITOR.
 	    </div>
 	</div>
 </div>
@@ -42,7 +42,8 @@ navigation_weight: 3
 		<div class = "card-panel"  style="height:500px">
 			<img style="float: right;" src="/img/2018_BMI_Logo_deutsch_4c.jpg" alt="BMI" width="170"/>
 			<h2><a href="https://www.bmi.gv.at/">Federal Ministry of the Interior (BMI)</a></h2>
-			The Federal Ministry of the Interior is a KIRAS project partner as a consumer from the public sector in that there is a strong research need in the scope of the Interior Ministry. As a consequence, the department II/BK/7-KWK (federal department: white-collar crime competence center) brings the technical expertise in the corresponding responsibilities.
+			The BMI participates in the KIRAS research project as a project partner in the sense of a consumer from the public sector, as there is a need for research in and for the sphere of activity of the Interior Ministry.
+			The Institute for Science and Research (IWF) is the central point of contact of the Federal Ministry of the Interior for research matters. In carrying out research activities with the participation of the BMI, the IWF assumes the responsibilities of research coordination.
 	    </div>
 	</div>
 	<div class="col s12 m8 l6">
