@@ -23,16 +23,16 @@ navigation_weight: 2
           The expected outcomes of the project are: 
           <ul>
             <li>
-              a legal assessment of the developed methods and regulatory recommendations with regard to tokens and payment channels,
+              a legal assessment of the developed methods and regulatory recommendations with regard to tokens and payment channels
             </li>
             <li>
-              new forensic methods for the analysis of generic crypto-assets that will be integrated as program modules into existing tools (e.g. BlockSci, GraphSense),
+              new forensic methods for the analysis of generic crypto-assets that will be integrated as program modules into existing tools (e.g. BlockSci, GraphSense)
             </li>
             <li>
-              a systematic analysis and risk assessment of crypto-assets,
+              a systematic analysis and risk assessment of crypto-assets
             </li>
             <li>
-              formats for a harmonized exchange of data between involved partners,
+              formats for a harmonized exchange of data between involved partners
             </li>
             <li>
               a coordinated cryptocurrency forensics curriculum as a qualification measure for investigators.
