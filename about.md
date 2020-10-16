@@ -12,7 +12,7 @@ navigation_weight: 2
 		  <h2>
 		  	Context
 		  </h2>
-      Money flows in the always relevant cryptocurrency Bitcoin can nowadays relatively well traced. However, the need for new forensic methods is already foreseeable due to the advancing technical development: virtual financial assets, so-called crypto-assets, and financial products like tokens and <b>smart contracts</b> as well as <b>off-chain</b> payment channels are increasingly used and will soon make current blockchain forensic tools obsolete. 
+      Money flows in the always relevant cryptocurrency Bitcoin can nowadays be traced relatively well. However, the need for new forensic methods is already foreseeable due to the advancing technical development: virtual financial assets, so-called crypto-assets, and financial products like tokens and <b>smart contracts</b> as well as <b>off-chain</b> payment channels are increasingly used and will soon make current blockchain forensic tools obsolete. 
 	    </div>
 	</div>
 </div>
@@ -26,13 +26,13 @@ navigation_weight: 2
               a legal assessment of the developed methods and regulatory recommendations with regard to tokens and payment channels,
             </li>
             <li>
-              new forensic methods for the analysis of generic cryptoassets that will be integrated as program modules into existing tools (e.g. BlockSci, GraphSense),
+              new forensic methods for the analysis of generic crypto-assets that will be integrated as program modules into existing tools (e.g. BlockSci, GraphSense),
             </li>
             <li>
-              a systematic analysis and risk assessment of cryptoassets,
+              a systematic analysis and risk assessment of crypto-assets,
             </li>
             <li>
-              formats for a harmonized exchange of data between involved consumers,
+              formats for a harmonized exchange of data between involved partners,
             </li>
             <li>
               a coordinated cryptocurrency forensics curriculum as a qualification measure for investigators.

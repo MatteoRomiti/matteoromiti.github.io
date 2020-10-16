@@ -40,7 +40,7 @@ navigation_weight: 1
         The goal of the KRYPTOMONITOR project is to develop methods for cryptoassets analysis focusing on <b>smart contracts</b> and <b>off-chain</b> transactions. 
         <br>
         <br>
-        The resulting tools will make the the forensic analysis for the Law Enforcement more effective and a provide a fact-based decision making for the assessment of possible <b>risks</b> and for the implementation of regulatory measures. 
+        The resulting tools will make the the forensic analysis for the law enforcement more effective and a provide a fact-based decision making for the assessment of possible <b>risks</b> and for the implementation of regulatory measures. 
         <br>
         <br>
         Orthogonal to this, legal and regulatory questions about <b>tokens</b> will be answered, standards for an effective exchange of data will be defined and qualification trainings will be held. 
