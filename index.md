@@ -1,58 +1,22 @@
 ---
-layout: index
-navigation_weight: 1
+layout: default
+title: Matteo Romiti 
+category: homepage
 ---
+<center><img src="./images/me_sunrise.jpg" alt="Me" style="width: 250px; border-radius: 50%"/></center>
 
-<div class="home">
-  <br>
-  <br>
-  <div class = "row">
-    <div class = "col s12 m12 l12">
-      <div class = "card-panel">
-        <div class = "valign-wrapper">
-          <div class = "col s12 m3 l3 center">
-            <div>
-              <a href='/about'>
-                <img src="/img/KRYPTOMONITOR_LOGO_RGB.svg" alt="" class="circle responsive-img hoverable">
-              </a>
-            </div>
-            <div style = 'padding: 5px 0px'></div>
-          </div>
-          <div class = "col s12 m9 l9">
-            <p>
-              <h1>
-                KRYPTOMONITOR
-              </h1>
-              <h3>
-                Forensic Methods for Smart Contracts and Off-Chain Transactions.
-              </h3>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<br /> 
 
-  <div class = "row">
-    <div class = "col s12 m12 l12">
-      <div class = "card-panel">
-        <h2>Description</h2>
-        The goal of the KRYPTOMONITOR project is to develop methods for cryptoassets analysis focusing on <b>smart contracts</b> and <b>off-chain</b> transactions. 
-        <br>
-        <br>
-        The resulting tools will make the the forensic analysis for the law enforcement more effective and a provide a fact-based decision making for the assessment of possible <b>risks</b> and for the implementation of regulatory measures. 
-        <br>
-        <br>
-        Orthogonal to this, legal and regulatory questions about <b>tokens</b> will be answered, standards for an effective exchange of data will be defined and qualification trainings will be held. 
-      </div>
-    </div>
-  </div>
+- Research Engineer who likes to learn and create (mainly [coding](https://github.com/MatteoRomiti)) <br /> 
+- Piano (and former violin) student who likes [classical and electronic](https://github.com/alegaballo/Tools/blob/master/playlist_creator/sorted_tracks.csv) music <br />
+- [CouchSurfer](https://www.couchsurfing.com/people/matteoromiti) who likes to help and know people from everywhere <br /> 
+- [Reader](https://matteoromiti.github.io/reading-list/) <br />
+- Former [volleyball player](https://youtu.be/ljKnFh7Vxms) who likes [skateboards and snowboards](https://youtu.be/X3y-hf4Nu7k) <br />
+- Italian who likes to eat well
 
-</div>
+<!-- <br /> 
+<span class="newline">Encrypted Email: <a href="matteoromiti_PGP_public_key.asc">My PGP key</a></span>
+<br /> 
+ -->
+> "Many small people, in many small places, do many small things, that can alter the face of the world."
 
-<script>
-  particlesJS.load('particles-js', '/js/particles.json', function() {
-     console.log('callback - particles.js config loaded');
-  });
-
-</script>
