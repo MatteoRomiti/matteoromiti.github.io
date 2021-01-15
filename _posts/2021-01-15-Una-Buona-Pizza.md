@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Una Buona Pizza"
-date: 2021-01-14 13:40:24 +0200
+title: "Una Buona Pizza (Parte 1)"
+date: 2021-01-15 13:40:24 +0200
 excerpt_separator: <!--more-->
 ---
 <!-- <p>{{ page.date | date: "%B %e, %Y" }}</p> -->
@@ -28,7 +28,7 @@ Nella metafora, la pizza scadente equivale ad avere dei soldi da parte che nell'
 
 A questo punto, vi voglio dire una cosa che dovrebbe e potrebbe sorprendere qualcuno: la norma è aspettarsi (storicamente) un rendimento di circa un [+8% annuo](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp). Chiaro, ci sono anni positivi e anni negativi, ma nel lungo termine (basta qualche anno) il trend è chiaramente positivo. Il motivo? Perché ogni giorno ci alziamo, andiamo a lavorare, a studiare, a consumare, a produrre e a mandare avanti l'economia.
 
-Quindi, chi è il poveretto che si mangia la pizza di qualità inferiore? Chi è il turista italiano? 
+Quindi, nella metafora, chi è il poveretto che si mangia la pizza di qualità inferiore? Chi è il turista italiano? 
 
 La pizza scadente veniva mangiata (e purtroppo viene ancora mangiata) da persone a me care che, non avendo una minima idea di cosa doversi aspettare da una normale pizzeria, accettano delle pizze assurde. Io, da bravo protettore della buona pizza italiana, non sono riuscito a rimanere in silenzio ed ho fatto notare i problemi e certi standard.
 
