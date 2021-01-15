@@ -28,7 +28,7 @@ Nella metafora, la pizza scadente equivale ad avere dei soldi da parte che nell'
 
 A questo punto, vi voglio dire una cosa che dovrebbe e potrebbe sorprendere qualcuno: la norma è aspettarsi (storicamente) un rendimento di circa un [+8% annuo](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp). Chiaro, ci sono anni positivi e anni negativi, ma nel lungo termine (basta qualche anno) il trend è chiaramente positivo. Il motivo? Perché ogni giorno ci alziamo, andiamo a lavorare, a studiare, a consumare, a produrre e a mandare avanti l'economia.
 
-Quindi, nella metafora, chi è il poveretto che si mangia la pizza di qualità inferiore? Chi è il turista italiano? 
+Dunque, nella metafora, chi è il poveretto che si mangia la pizza di qualità inferiore? Chi è il turista italiano? 
 
 La pizza scadente veniva mangiata (e purtroppo viene ancora mangiata) da persone a me care che, non avendo una minima idea di cosa doversi aspettare da una normale pizzeria, accettano delle pizze assurde. Io, da bravo protettore della buona pizza italiana, non sono riuscito a rimanere in silenzio ed ho fatto notare i problemi e certi standard.
 
@@ -38,7 +38,7 @@ Dopo qualche anno (o decennio), ritornando a parlare con i loro consulenti di fi
 
 Perché ciò avviene? Cosa c'è di sbagliato?
 
-Ho avuto modo di parlare con il consulente finanziario (la pizzeria nella metafora) e vi posso riportare il loro punto di vista. Ciò avviene perché:
+Ho avuto modo di parlare con il consulente finanziario (la pizzeria nella metafora) e vi posso riportare sia il loro punto di vista che il mio. Ciò avviene perché:
 1. il cliente non sa che, nel lungo termine, un investimento standard rende un 8% all'anno e si accontenta di un 1% (se volete, poi faremo due conti e capirete c'è una bella differenza),
 2. il cliente non ha tempo o voglia di stare dietro a queste cose,
 3. il consulente non vuole perdere il cliente o il lavoro
