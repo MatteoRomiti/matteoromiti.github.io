@@ -13,7 +13,7 @@ Noi italiani siamo stati educati ed abituati sin da piccoli a distinguere una bu
 
 Questo post, a differenza degli altri (tre in croce), è in italiano perché è rivolto alle persone a me più vicine e care, sebbene siano lontane da dove vivo (scusate se i siti linkati sono in inglese, io o google ve li possiamo tradurre). Data questa lontananza e l'impossibilità di incontrarci, ho pensato di mettere per iscritto due/tre concetti che probabilmente avrei comunque condiviso con voi nel caso ci fossimo visti sotto le feste, o sotto l'ombrellone. 
 
-Ho usato l'esempio del turista italiano e della pizzeria come metafora per darvi un'idea di come purtroppo ancora molte persone non sanno che stanno "pagando e mangiando una pizza scadente e di bassa qualità". 
+Ho usato l'esempio del turista italiano e della pizzeria come metafora per darvi un'idea di come purtroppo ancora molte persone non sappiano che stanno "pagando e mangiando una pizza scadente e di bassa qualità". 
 
 Penserete: OK, quindi per cosa sta questa metafora? Chi è che sta mangiando una pizza scadente e non se ne accorge?
 
@@ -45,7 +45,7 @@ Ho avuto modo di parlare con il consulente finanziario (la pizzeria nella metafo
 4. il consulente non sa fare bene il suo lavoro
 
 Per commentare brevemente ogni punto:
-1. leggendo questo post, il problema spero non sussista più: l'indice S&P 500 ha una media annua di circa +8% e se guadagnate nettamente di meno, qualcosa non va
+1. leggendo questo post, il problema spero non sussista più: l'indice [S&P 500](https://it.wikipedia.org/wiki/S%26P_500) ha una media annua di circa +8% e se guadagnate nettamente di meno, qualcosa non va (dettagli in seguito)
 2. è forse triste dirlo, ma i vostri soldi, frutto del vostro lavoro o dei vostri genitori, vi permettono di avere una casa, di dare un futuro migliore ai vostri figli, di avere una qualità della vita migliore, di andare in pensione prima, quindi non credo che sia giusto ignorarli come se fossero delle piante finte in una mensola
 3. il consulente, temendo che appena ci sia un periodo negativo il cliente se ne vada, sceglie dei investimenti senza rendimento (tanto vale lasciare i soldi sul conto) o degli investimenti imposti dalla banca presso cui lavora
 4. in base alle mie esperienze, può capitare che non ci sia la giusta comunicazione o scambio di informazioni tra cliente e consulente.
