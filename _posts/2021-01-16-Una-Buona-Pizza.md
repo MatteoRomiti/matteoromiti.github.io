@@ -5,12 +5,13 @@ date: 2021-01-14 13:40:24 +0200
 excerpt_separator: <!--more-->
 ---
 <!-- <p>{{ page.date | date: "%B %e, %Y" }}</p> -->
-Quando un italiano va in vacanza all'estero non è raro che si trovi davanti ad una pizzeria. <!--more--> Altrettanto non raro è che il turista italiano butti un occhio a quei tavoli e alla pizza che sfornano e che si faccia scappare un commento (spesso di disprezzo: "Mammamia, come fanno questi a mangia' 'sta pizza!"). Noi italiani siamo stati educati ed abituati sin da piccoli a distinguere una buona pizza da una cattiva e a volte ci basta uno sguardo. Grazie a ciò, almeno in questo settore, il popolo italiano ha degli standard ben più elevati degli altri paesi.
+Quando un italiano va in vacanza all'estero non è raro che si trovi davanti ad una pizzeria. <!--more--> Altrettanto non raro è che il turista italiano butti un occhio a quei tavoli e alla pizza che sfornano e che si faccia scappare un commento (spesso di disprezzo: "Mammamia, come fanno questi a mangia' 'sta pizza!"). 
+
+Noi italiani siamo stati educati ed abituati sin da piccoli a distinguere una buona pizza da una cattiva e a volte ci basta uno sguardo. Grazie a ciò, almeno in questo settore, il popolo italiano ha degli standard ben più elevati degli altri paesi.
  
 ![Una pizza buona?](/images/una_pizza_buona.jpg)
 
 Questo post, a differenza degli altri (tre in croce), è in italiano perché è rivolto alle persone a me più vicine e care, sebbene siano lontane da dove vivo (scusate se i siti linkati sono in inglese, io o google ve li possiamo tradurre). Data questa lontananza e l'impossibilità di incontrarci, ho pensato di mettere per iscritto due/tre concetti che probabilmente avrei comunque condiviso con voi nel caso ci fossimo visti sotto le feste, o sotto l'ombrellone. 
-(Scrivo anche perché nel mio lavoro, se una cosa deve essere ripetuta più volte allo stesso modo, si cerca di automatizzarla e farla bene una volta per tutte.)
 
 Ho usato l'esempio del turista italiano e della pizzeria come metafora per darvi un'idea di come purtroppo ancora molte persone non sanno che stanno "pagando e mangiando una pizza scadente e di bassa qualità". 
 
@@ -19,14 +20,15 @@ Penserete: OK, quindi per cosa sta questa metafora? Chi è che sta mangiando una
 ![Una pizza cattiva?](/images/una_pizza_cattiva.jpg)
 
 
-Negli ultimi anni, un po' per lavoro, un po' per curiosità, un po' per necessità, [mi sono avvicinato](https://github.com/MatteoRomiti/finance) al mondo dell'economia, della finanza e degli investimenti. Mi immagino che già leggendo la parola "investimenti" qualcuno abbia pensato: "Oddio, che si è messo a fare Matteo? Non è che mi vuole vendere qualche fregatura? Io di 'ste cose proprio non me ne intendo!". 
+Negli ultimi anni, un po' per lavoro, un po' per curiosità, un po' per necessità, [mi sono avvicinato](https://github.com/MatteoRomiti/finance) al mondo dell'economia, della finanza e degli investimenti. Mi immagino che già leggendo la parola "investimenti" qualcuno abbia pensato: "Oddio, che si è messo a fare Matteo? Non è che mi vuole vendere qualche fregatura? Io di 'ste cose proprio non me ne intendo!".
 
 In ogni caso, penso che quanto segue sia alla portata di tutti, ma soprattutto che contenga informazioni che ritengo utili sia per voi stessi, che per la società di cui fate parte.
 
 Nella metafora, la pizza scadente equivale ad avere dei soldi da parte che nell'arco di alcuni anni non fruttano praticamente nulla, pur sapendo ed avendo deciso che quei soldi non verranno toccati per diversi anni. 
+
 A questo punto, vi voglio dire una cosa che dovrebbe e potrebbe sorprendere qualcuno: la norma è aspettarsi (storicamente) un rendimento di circa un [+8% annuo](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp). Chiaro, ci sono anni positivi e anni negativi, ma nel lungo termine (basta qualche anno) il trend è chiaramente positivo. Il motivo? Perché ogni giorno ci alziamo, andiamo a lavorare, a studiare, a consumare, a produrre e a mandare avanti l'economia.
 
-Quindi, chi è il poveretto che si mangia la pizza scadente? Chi è il turista italiano? 
+Quindi, chi è il poveretto che si mangia la pizza di qualità inferiore? Chi è il turista italiano? 
 
 La pizza scadente veniva mangiata (e purtroppo viene ancora mangiata) da persone a me care che, non avendo una minima idea di cosa doversi aspettare da una normale pizzeria, accettano delle pizze assurde. Io, da bravo protettore della buona pizza italiana, non sono riuscito a rimanere in silenzio ed ho fatto notare i problemi e certi standard.
 
