@@ -25,7 +25,6 @@ category: blog
           {% else %}
             {{ words | divided_by:180 }} mins read
           {% endif %} <br />
-
           </strong></small>
           {{ post.excerpt | strip_html }}...
         </p>
