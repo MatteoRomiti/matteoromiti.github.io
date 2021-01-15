@@ -52,4 +52,4 @@ In un'epoca in cui l'informazione è sempre alla portata di mano di tutti, non p
 
 Quindi, state mangiando una buona pizza?
 
-Se ne volete sapere un minimo di più, ho riassunto i concetti base (alcuni vi saranno già noti) che vi permettono di valutare una buona pizza da una fregatura in questo altro post.
+Se ne volete sapere un minimo di più, ho riassunto i concetti base (alcuni vi saranno già noti) che vi permettono di valutare una buona pizza da una fregatura in un altro post.
