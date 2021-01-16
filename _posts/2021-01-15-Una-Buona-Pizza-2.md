@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 <!-- <p>{{ page.date | date: "%B %e, %Y" }}</p> -->
 Quanto segue dovrebbe esservi sufficiente per distinguere una buona pizza da una fregatura, ma leggete prima la [Parte 1](https://matteoromiti.github.io/blog/Una-Buona-Pizza/). <!--more--> 
 
-Come promesso, vi riassumo, semplificando, un po' di concetti che secondo me ognuno di noi dovrebbe almeno vagamente conoscere. Spero alcuni vi siano già noti e se così fosse passate pure al punto successivo.
+Come promesso, vi riassumo, *semplificando*, un po' di concetti che secondo me ognuno di noi dovrebbe almeno vagamente conoscere. Spero alcuni vi siano già noti e se così fosse passate pure al punto successivo. Nel caso vogliate approfondire, Wikipedia e Google ne sanno sicuro più di me.
 
 ### 1. Azioni e Obbligazioni
 
@@ -41,7 +41,9 @@ Questi numeri vengono combinati in vari modi per calcolare quelli che sono noti 
 
 Come detto nella Parte 1, l'S&P 500 ha un andamento che mediamente si aggira intorno al +8% annuo. Questo perché le più grandi 500 aziende americane in media crescono collettivamente dell'8% all'anno.
 
-Questo indice, sebbene si focalizzi solo su aziende americane, è considerato il più importante per capire come vanno i mercati sia perché ricopre una fetta significativa dell'economia statunitense, sia perché influenza molti altri mercati internazionali. Se siete interessati a vedere l'andamento più in dettaglio, [qui](https://finance.yahoo.com/chart/%5EGSPC) trovate un grafico interattivo fatto bene.
+Questo indice, sebbene si focalizzi solo su aziende americane, è considerato il più importante per capire come vanno i mercati sia perché ricopre una fetta significativa dell'economia statunitense, sia perché influenza molti altri mercati internazionali. Se siete interessati a vedere l'andamento più in dettaglio dell'S&P 500, [qui](https://finance.yahoo.com/chart/%5EGSPC) trovate un grafico interattivo fatto bene, che riporto qui di seguito per gli ultimi trent'anni (tanto per essere chiari, y = 500% significa che il valore si è "quintiplicato".).
+
+![SP500?](/images/sp500.png)
 
 Da decenni, gli investitori vengono giudicati prendendo come riferimento questo indice: se sono riusciti ad avere un guadagno maggiore dell'S&P 500 per almeno qualche anno, hanno fatto un buon lavoro, altrimenti hanno solo perso tempo e denaro e fatto peggio della media. 
 
@@ -84,7 +86,7 @@ Giusto per darvi un'idea di quali costi sono accettabili e quali sono da conside
 
 #### 6.6 Dettagli Minori
 
-Vi potrebbe anche interessare sapere la risposta alla seguente domanda: "Ho una somma X da investire: mi conviene investire tutto subito o un po' al mese, in modo da distribuire il rischio di comprare a dei prezzi troppo alti?". È chiaro che questa domanda se la sia già posta qualcuno prima di me. [La risposta](https://www.cibcwg.com/c/document_library/get_file?uuid=66dd5421-ca73-4c82-9100-5b7112cc367f&groupId=42410&version=1.0) è che statisticamente conviene investire tutto subito.
+Vi potrebbe anche interessare sapere la risposta alla seguente domanda: "Ho una somma X da investire: mi conviene investire tutto subito o un po' al mese, in modo da distribuire il rischio di comprare a dei prezzi troppo alti?". È chiaro che questa domanda sia già stata risposta da qualcuno prima di me. [La risposta](https://www.cibcwg.com/c/document_library/get_file?uuid=66dd5421-ca73-4c82-9100-5b7112cc367f&groupId=42410&version=1.0) è che statisticamente conviene investire tutto subito.
 
 ### Conclusione
 

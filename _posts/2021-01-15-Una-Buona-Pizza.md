@@ -11,7 +11,7 @@ Noi italiani siamo stati educati ed abituati sin da piccoli a distinguere una bu
  
 ![Una pizza buona?](/images/una_pizza_buona.jpg)
 
-Questo post, a differenza degli altri (tre in croce), è in italiano perché è rivolto alle persone a me più vicine e care, sebbene siano lontane da dove vivo (scusate se i siti linkati sono in inglese, io o google ve li possiamo tradurre). Data questa lontananza e l'impossibilità di incontrarci, ho pensato di mettere per iscritto due/tre concetti che probabilmente avrei comunque condiviso con voi nel caso ci fossimo visti sotto le feste, o sotto l'ombrellone. 
+Questo post, a differenza degli altri (tre in croce), è in italiano perché è rivolto alle persone a me più vicine e care, sebbene siano lontane da dove vivo (scusate se i siti linkati sono in inglese, io o Google ve li possiamo tradurre). Data questa lontananza e l'impossibilità di incontrarci, ho pensato di mettere per iscritto due/tre concetti che probabilmente avrei comunque condiviso con voi nel caso ci fossimo visti sotto le feste, o sotto l'ombrellone. 
 
 Ho usato l'esempio del turista italiano e della pizzeria come metafora per darvi un'idea di come purtroppo ancora molte persone non sappiano che stanno "pagando e mangiando una pizza scadente e di bassa qualità". 
 
