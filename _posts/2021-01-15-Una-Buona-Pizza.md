@@ -55,3 +55,7 @@ In un'epoca in cui l'informazione è sempre alla portata di mano di tutti, non p
 Quindi, state mangiando una buona pizza?
 
 Se ne volete sapere un minimo di più, ho riassunto i concetti base (alcuni vi saranno già noti) che vi permettono di valutare una buona pizza da una fregatura in un [questo](https://matteoromiti.github.io/blog/Una-Buona-Pizza-2/) altro post.
+
+#### [Aggiunta del 17 Gennaio 2021]
+
+Negli ultimi anni, mi è gia capitato di sentir dire almeno una volta: "Per carità! Io non darò mai i miei soldi a quelle banche corrotte, a quelle multinazionali che sfruttano i poveri e rovinano il pianeta!". Il mio commento a riguardo: avete tutto il diritto di pensarla così ed è comprensibile, ma sappiate che il vostro [fondo pensione](https://it.wikipedia.org/wiki/Fondo_pensione), nel caso ne abbiate uno, investe già i vostri contributi nelle stesse banche corrotte e multinazionali poco etiche. Allo stesso tempo, queste banche e queste multinazionali, nonostante da voi poco amate, investono comunque nel vostro paese (un esempio: comprando titoli di stato). Pensare di non far parte del "sistema" è, al giorno d'oggi, abbastanza un'illusione.

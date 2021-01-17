@@ -95,3 +95,16 @@ Nel caso mi fossi dimenticato qualcosa o nel caso notassi qualcosa di sbagliato 
 Repetita iuvant: lo scopo di questo post è permettervi di distinguere una buona pizza da una fregatura, mantenendo la metafora della Parte 1. Prima di prendere decisioni per investire, informatevi di più, per favore.
 
 A presto e un abbraccio!
+
+#### [Aggiunta del 17 Gennaio 2021]
+
+Quando ero alle superiori, mi ricordo che il sabato pomeriggio si usciva e si andava per il corso di Ancona e uno dei pochi momenti a cui tenevo particolarmente era quello di andare a comprare un pezzo di pizza per merenda. Niente di particolare, un pezzo margherita a €1. Se proprio volevi esagerare, un pezzo margherita e un pezzo farcito a €2,20. Mezzo litro d'acqua? €1. 
+
+Non ricordo l'ultima volta che sono stato in centro ad Ancona a prendere una pizza, ma sicuramente i prezzi erano aumentati. Esatto, l'inflazione! Un numero che si [cerca di tenere](https://www.investopedia.com/terms/i/inflation_targeting.asp) intorno al 2%. Ciò significa che una semplice margherita al piatto, che in Italia (almeno dalle mie parti) costa circa €8, tra sessant'anni costerà più di €26. 
+
+Qui sotto potete vedere come sono cambiati i prezzi per settore negli USA negli ultimi venti anni.
+
+![Inflazione_USA](/images/inflation.png)
+
+Tutto questo per dirvi cosa?
+Potete anche decidere di lasciare tutti i vostri soldi sul conto corrente e non investirli, ma sappiate che ciò equivale a perdere soldi, circa il 2% all'anno.
