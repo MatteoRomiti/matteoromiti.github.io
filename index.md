@@ -7,7 +7,6 @@ category: homepage
 
 <br /> 
 
-<<<<<<< HEAD
 - Data Engineer who likes to learn and create (mainly [coding](https://github.com/MatteoRomiti)) <br /> 
 - Piano (and former violin) student who likes [classical and electronic](https://github.com/alegaballo/Tools/blob/master/playlist_creator/sorted_tracks.csv) music <br />
 - Former [CouchSurfer](https://www.couchsurfing.com/people/matteoromiti) who likes to help and know people from everywhere <br /> 
