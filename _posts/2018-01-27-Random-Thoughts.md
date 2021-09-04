@@ -9,13 +9,15 @@ Thoughts and opinions I want to write down and share. <!--more-->
 
 - If you want to make me happy, get me a fruit, a plant or a vegetable (artichokes excluded).
 
-- OBI is my favorite shop.
+- OBI is probably my favorite shop.
+
+- I find it absurd that we still haven't found a less invasive technology than the siren to warn people that police, ambulance and the like are nearby.
 
 - Girls with curly hair make me feel a bit nervous. Black curly hair even more.
 
 - People that speak softly and at a regular pace seem to be wise people to me.
 
-- Italian news talks way too much about politics.
+- Italian news talk way too much about politics. Apparently that's what people want to hear.
 
 - Owning a bidet is a necessary but not a sufficient condition to be a developed society.
 
