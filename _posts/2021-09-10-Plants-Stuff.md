@@ -73,7 +73,7 @@ List of plants that I have/had (same as image above):
 - Rhaphidophora tetrasperma
 - Scindapsus pictus
 - Salvia rosmarinus
-- Tillandsia Ionantha
+- Tillandsia ionantha
 - Unknown cacti
 - Zamioculcas zamiifolia
 
