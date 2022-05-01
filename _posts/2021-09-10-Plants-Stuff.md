@@ -28,10 +28,11 @@ If you happen to be interested in plants, swapping or receiving or taking care o
 
 -------------
 
-List of plants that I have/had (same as image above):
+List of plants that I have/had (same as above):
 
 - Amaryllis
 - Alocasia baginda
+- Alocasia Frydek
 - Aloe vera
 - Anthurium clarinervium
 - Cephaocereus Senilis
@@ -43,11 +44,13 @@ List of plants that I have/had (same as image above):
 - Ctenanthe "burle marxii"
 - Calathea leopardina
 - Calathea ornata
+- Calathea zebrina
 - Dracaena trifasciata
 - Dracaena deremensis "Hawaiian sunshine"
 - Dracaena sanderiana
 - Dracaena fernwood mikado
 - Epipremnum aureum
+- Epipremnum njoy
 - Euphorbia pulcherrima
 - Echeveria hercules
 - Echeveria "Bombycina"
@@ -60,6 +63,8 @@ List of plants that I have/had (same as image above):
 - Haworthia gasterhaworthia rosava
 - Melissa officinalis
 - Mentha
+- Macodes petola
+- Maranta "lemon lime"
 - Maranta leuconera
 - Monstera deliciosa
 - Nepenthes hybrid
@@ -79,7 +84,3 @@ List of plants that I have/had (same as image above):
 
 List of plants I also like:
 
-- [Macodes petola](https://en.wikipedia.org/wiki/Macodes_petola)
-- [Calathea zebrina](https://en.wikipedia.org/wiki/Calathea_zebrina)
-- [Maranta "lemon lime"](https://www.google.com/search?q=maranta+lemon+lime)
-- [Alocasia Frydek](https://www.google.com/search?q=alocasia+frydek)
