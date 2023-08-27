@@ -41,7 +41,7 @@ Questi numeri vengono combinati in vari modi per calcolare quelli che sono noti 
 
 Come detto nella Parte 1, l'S&P 500 ha un andamento che mediamente si aggira intorno al +8% annuo. Questo perché le più grandi 500 aziende americane in media crescono collettivamente dell'8% all'anno.
 
-Questo indice, sebbene si focalizzi solo su aziende americane, è considerato il più importante per capire come vanno i mercati sia perché ricopre una fetta significativa dell'economia statunitense, sia perché influenza molti altri mercati internazionali. Se siete interessati a vedere l'andamento più in dettaglio dell'S&P 500, [qui](https://finance.yahoo.com/chart/%5EGSPC) trovate un grafico interattivo fatto bene, che riporto qui di seguito per gli ultimi trent'anni (tanto per essere chiari, y = 500% significa che il valore si è "quintiplicato".).
+Questo indice, sebbene si focalizzi solo su aziende americane, è considerato il più importante per capire come vanno i mercati sia perché ricopre una fetta significativa dell'economia statunitense, sia perché influenza molti altri mercati internazionali. Se siete interessati a vedere l'andamento più in dettaglio dell'S&P 500, [qui](https://finance.yahoo.com/chart/%5EGSPC) trovate un grafico interattivo fatto bene, che riporto qui di seguito per gli ultimi trent'anni (tanto per essere chiari, y = 500% significa che il valore si è "quintuplicato".).
 
 ![SP500?](/images/sp500.png)
 
@@ -72,7 +72,7 @@ Una risposta più intuitiva, ma statisticamente sbagliata è: "Ritiro i soldi ap
 
 #### 6.3 Fondo di Emergenza
 
-Immaginatevi di avere una spesa imprevista, i mercati sono in negativo e se disinvestire (ritirare i soldi) vi porterebbe ad una perdita, piccola o grande che sia. Come evitare questa situazione? Non è sempre facile o possibile, ma per ridurre il rischio, è bene tenere da parte (quindi non investire) una somma, più o meno significativa, da usare in caso di emergenze. Tale somma dipende da vari fattori come famiglia, salute, e altre liquidità che si posseggono.
+Immaginatevi di avere una spesa imprevista, i mercati sono in negativo e disinvestire (ritirare i soldi) vi porterebbe ad una perdita, piccola o grande che sia. Come evitare questa situazione? Non è sempre facile o possibile, ma per ridurre il rischio, è bene tenere da parte (quindi non investire) una somma, più o meno significativa, da usare in caso di emergenze. Tale somma dipende da vari fattori come famiglia, salute, e altre liquidità che si posseggono.
 
 #### 6.4 Non solo S&P 500
 
@@ -82,7 +82,7 @@ Nell'altra direzione, ossia meno con rischio, vanno le obbligazioni. Come già d
 
 #### 6.5 Costi Accettabili
 
-Giusto per darvi un'idea di quali costi sono accettabili e quali sono da considerare dei "furti", al giorno d'oggi esistono banche (registrate, regolamentate e osservate dall'UE) che essendo prettamente online riescono ad offrire transazioni piuttosto bassi. Un esempio per comprare azioni, Degiro chiede 2 euro più lo 0.03% della somma, ossia investendo 1000 euro, paghereste 2 euro più 30 centesimi.
+Giusto per darvi un'idea di quali costi sono accettabili e quali sono da considerare dei "furti", al giorno d'oggi esistono banche (registrate, regolamentate e osservate dall'UE) che essendo prettamente online riescono ad offrire costi piuttosto bassi. Un esempio per comprare azioni, Degiro chiede 2 euro più lo 0.03% della somma, ossia investendo 1000 euro, paghereste 2 euro più 30 centesimi.
 
 #### 6.6 Dettagli Minori
 
